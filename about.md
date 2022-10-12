@@ -12,4 +12,4 @@ permalink: /about/
 
 ### Contact me
 
-[email@domain.com](mailto:1star22gold@gmail.com)
+[1star22gold@gmail.com](mailto:1star22gold@gmail.com)
