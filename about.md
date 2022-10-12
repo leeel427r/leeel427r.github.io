@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-블로그 완전 초보의 연습용 블로그..
+blog beginner 
 
 ### More Information
 
-테마 바꾸는게 어려운거 같아요.
+exercise.
 
 ### Contact me
 
