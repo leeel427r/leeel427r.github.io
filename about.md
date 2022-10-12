@@ -8,7 +8,7 @@ blog beginner
 
 ### More Information
 
-exercise.
+한글도 되나요
 
 ### Contact me
 
