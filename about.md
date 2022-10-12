@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+블로그 완전 초보의 연습용 블로그..
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+테마 바꾸는게 어려운거 같아요.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:1star22gold@gmail.com)
